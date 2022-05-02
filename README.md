@@ -84,9 +84,9 @@ Challenge 2 result in combination with your overall candidate profile will be re
 
 
 
+![image](https://user-images.githubusercontent.com/81810889/166262870-62e6c4fb-fa9c-44a2-b726-fcb5a739fd42.png)
 
+# Mentee Badge
 
-
-
-
+![image](https://user-images.githubusercontent.com/81810889/166263048-d588a71c-1e7f-4ad3-abb5-904b6c503fbd.png)
 
