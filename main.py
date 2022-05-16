@@ -28,7 +28,7 @@ def tick():
 ###################################################################################
 
 def contact():
-    mess._show(title='Contact us', message="Please contact us on : 'shubhamkumar8180323@gmail.com' ")
+    mess._show(title='Contact us', message="Please contact us on : 'amruthasriamaravati852@gmail.com' ")
 
 ###################################################################################
 
@@ -133,13 +133,13 @@ def psw():
 
 def clear():
     txt.delete(0, 'end')
-    res = "1)Take Images  >>>  2)Save Profile"
+    res = "1)Take Images     2)Save Profile"
     message1.configure(text=res)
 
 
 def clear2():
     txt2.delete(0, 'end')
-    res = "1)Take Images  >>>  2)Save Profile"
+    res = "1)Take Images     2)Save Profile"
     message1.configure(text=res)
 
 #######################################################################################
