@@ -38,3 +38,8 @@ Click on the button "Take the Test" on the top-right corner of the page. See scr
 
 Challenge 2 result in combination with your overall candidate profile will be reviewed for the mentorship program. You will be notified accordingly if you are eligible for mentorship program by May 2nd ‘2022.
 
+
+![image](https://user-images.githubusercontent.com/81810889/166146346-9c115804-4895-4468-a5ce-d2caa5ab8c87.png)
+
+
+![image](https://user-images.githubusercontent.com/81810889/166262870-62e6c4fb-fa9c-44a2-b726-fcb5a739fd42.png)
