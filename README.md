@@ -62,7 +62,7 @@
 
 ## Profile Saved Successfully 
 ![image](https://user-images.githubusercontent.com/81810889/170809586-ab079048-325f-4d51-a2f5-bd65c2bb5f97.png)
-### After entering the correct Password and hit ok, the profile it registered and response counts 1.
+### After entering the correct Password (12345) and hit ok, the profile it registered and response counts 1.
 <br><br>
 
 ## Application ready for the attendance
