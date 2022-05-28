@@ -1,7 +1,7 @@
 <img align="left" width="35%" alt="logo" src="https://user-images.githubusercontent.com/81810889/170808879-d4e1b6fe-13e4-4141-9bd8-831b21683a7a.png"> 
 <h1 align ="right"> Track Attendace Using Face Recognition </h1>
 <h3 align="right"> <br>Using boosting technologies such as Face Recognition features, this Attendance Tracking and Management GUI Interface efficiently track the distributed audience in real-time. <br></h3>
-<br><br><br><br>
+<br><br>
 
 # Documentation
 
