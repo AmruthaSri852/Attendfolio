@@ -110,11 +110,3 @@
 ### This one is for the attendance recorded on 28-05-2022, you can review the saved folder name.
 <br><br>
 
-# Heartfully With Miscrosoft Engage'22 
-
-![unnamed](https://user-images.githubusercontent.com/81810889/170811013-67d87ca5-c3d6-40f2-9d09-5adc3544333e.png)
-<br><br>
-![image](https://user-images.githubusercontent.com/81810889/170811085-5e3fcec3-7496-4a93-adf3-9c0d6d77e34b.png)
-<br><br>
-
-Thanks smartech magix channel for sharing resource/knowledge.
